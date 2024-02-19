@@ -29,3 +29,23 @@ Console.WriteLine(sayHello);
 
 Console.WriteLine(sayHello.ToUpper());
 Console.WriteLine(sayHello.ToLower());
+
+// We can use to the Contains function to search a string and return a boolean value to determine whether or not it has a specific word
+
+string songLyrics = "You say goodbye, and I say hello";
+Console.WriteLine(songLyrics.Contains("goodbye"));
+Console.WriteLine(songLyrics.Contains("greetings"));
+
+string intro = "Hello, My Name is Max.";
+Console.WriteLine(intro.Contains("Hello"));
+
+// Length counts the characters in a string and outputs the total
+Console.WriteLine(intro.Length);
+
+// StartsWith checks the string to see if whether or not it starts with a specific input- returns a boolean value
+Console.WriteLine(intro.StartsWith("Hel"));
+Console.WriteLine(intro.StartsWith("Hi"));
+
+// EndsWith checks the string to see if whether or not it end with a specific input- returns a boolean value
+Console.WriteLine(intro.EndsWith("ax."));
+Console.WriteLine(intro.EndsWith(".  "));
