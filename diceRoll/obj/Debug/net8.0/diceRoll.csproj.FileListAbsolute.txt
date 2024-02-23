@@ -1,0 +1,15 @@
+g:\C#\diceRoll\bin\Debug\net8.0\diceRoll.exe
+g:\C#\diceRoll\bin\Debug\net8.0\diceRoll.deps.json
+g:\C#\diceRoll\bin\Debug\net8.0\diceRoll.runtimeconfig.json
+g:\C#\diceRoll\bin\Debug\net8.0\diceRoll.dll
+g:\C#\diceRoll\bin\Debug\net8.0\diceRoll.pdb
+g:\C#\diceRoll\obj\Debug\net8.0\diceRoll.GeneratedMSBuildEditorConfig.editorconfig
+g:\C#\diceRoll\obj\Debug\net8.0\diceRoll.AssemblyInfoInputs.cache
+g:\C#\diceRoll\obj\Debug\net8.0\diceRoll.AssemblyInfo.cs
+g:\C#\diceRoll\obj\Debug\net8.0\diceRoll.csproj.CoreCompileInputs.cache
+g:\C#\diceRoll\obj\Debug\net8.0\diceRoll.sourcelink.json
+g:\C#\diceRoll\obj\Debug\net8.0\diceRoll.dll
+g:\C#\diceRoll\obj\Debug\net8.0\refint\diceRoll.dll
+g:\C#\diceRoll\obj\Debug\net8.0\diceRoll.pdb
+g:\C#\diceRoll\obj\Debug\net8.0\diceRoll.genruntimeconfig.cache
+g:\C#\diceRoll\obj\Debug\net8.0\ref\diceRoll.dll
