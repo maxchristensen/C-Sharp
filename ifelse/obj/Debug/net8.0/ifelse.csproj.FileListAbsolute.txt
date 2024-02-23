@@ -1,0 +1,15 @@
+G:\C#\ifelse\bin\Debug\net8.0\ifelse.exe
+G:\C#\ifelse\bin\Debug\net8.0\ifelse.deps.json
+G:\C#\ifelse\bin\Debug\net8.0\ifelse.runtimeconfig.json
+G:\C#\ifelse\bin\Debug\net8.0\ifelse.dll
+G:\C#\ifelse\bin\Debug\net8.0\ifelse.pdb
+G:\C#\ifelse\obj\Debug\net8.0\ifelse.GeneratedMSBuildEditorConfig.editorconfig
+G:\C#\ifelse\obj\Debug\net8.0\ifelse.AssemblyInfoInputs.cache
+G:\C#\ifelse\obj\Debug\net8.0\ifelse.AssemblyInfo.cs
+G:\C#\ifelse\obj\Debug\net8.0\ifelse.csproj.CoreCompileInputs.cache
+G:\C#\ifelse\obj\Debug\net8.0\ifelse.sourcelink.json
+G:\C#\ifelse\obj\Debug\net8.0\ifelse.dll
+G:\C#\ifelse\obj\Debug\net8.0\refint\ifelse.dll
+G:\C#\ifelse\obj\Debug\net8.0\ifelse.pdb
+G:\C#\ifelse\obj\Debug\net8.0\ifelse.genruntimeconfig.cache
+G:\C#\ifelse\obj\Debug\net8.0\ref\ifelse.dll
