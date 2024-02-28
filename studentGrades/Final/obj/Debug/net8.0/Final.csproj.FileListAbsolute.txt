@@ -1,0 +1,14 @@
+G:\Downloads\Guided-project-foreach-if-array-CSharp-main\Guided-project-foreach-if-array-CSharp-main\GuidedProject\Final\bin\Debug\net8.0\Final.exe
+G:\Downloads\Guided-project-foreach-if-array-CSharp-main\Guided-project-foreach-if-array-CSharp-main\GuidedProject\Final\bin\Debug\net8.0\Final.deps.json
+G:\Downloads\Guided-project-foreach-if-array-CSharp-main\Guided-project-foreach-if-array-CSharp-main\GuidedProject\Final\bin\Debug\net8.0\Final.runtimeconfig.json
+G:\Downloads\Guided-project-foreach-if-array-CSharp-main\Guided-project-foreach-if-array-CSharp-main\GuidedProject\Final\bin\Debug\net8.0\Final.dll
+G:\Downloads\Guided-project-foreach-if-array-CSharp-main\Guided-project-foreach-if-array-CSharp-main\GuidedProject\Final\bin\Debug\net8.0\Final.pdb
+G:\Downloads\Guided-project-foreach-if-array-CSharp-main\Guided-project-foreach-if-array-CSharp-main\GuidedProject\Final\obj\Debug\net8.0\Final.GeneratedMSBuildEditorConfig.editorconfig
+G:\Downloads\Guided-project-foreach-if-array-CSharp-main\Guided-project-foreach-if-array-CSharp-main\GuidedProject\Final\obj\Debug\net8.0\Final.AssemblyInfoInputs.cache
+G:\Downloads\Guided-project-foreach-if-array-CSharp-main\Guided-project-foreach-if-array-CSharp-main\GuidedProject\Final\obj\Debug\net8.0\Final.AssemblyInfo.cs
+G:\Downloads\Guided-project-foreach-if-array-CSharp-main\Guided-project-foreach-if-array-CSharp-main\GuidedProject\Final\obj\Debug\net8.0\Final.csproj.CoreCompileInputs.cache
+G:\Downloads\Guided-project-foreach-if-array-CSharp-main\Guided-project-foreach-if-array-CSharp-main\GuidedProject\Final\obj\Debug\net8.0\Final.dll
+G:\Downloads\Guided-project-foreach-if-array-CSharp-main\Guided-project-foreach-if-array-CSharp-main\GuidedProject\Final\obj\Debug\net8.0\refint\Final.dll
+G:\Downloads\Guided-project-foreach-if-array-CSharp-main\Guided-project-foreach-if-array-CSharp-main\GuidedProject\Final\obj\Debug\net8.0\Final.pdb
+G:\Downloads\Guided-project-foreach-if-array-CSharp-main\Guided-project-foreach-if-array-CSharp-main\GuidedProject\Final\obj\Debug\net8.0\Final.genruntimeconfig.cache
+G:\Downloads\Guided-project-foreach-if-array-CSharp-main\Guided-project-foreach-if-array-CSharp-main\GuidedProject\Final\obj\Debug\net8.0\ref\Final.dll
