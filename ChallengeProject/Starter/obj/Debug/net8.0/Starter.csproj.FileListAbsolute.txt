@@ -1,0 +1,15 @@
+G:\C#\ChallengeProject\Starter\bin\Debug\net8.0\Starter.exe
+G:\C#\ChallengeProject\Starter\bin\Debug\net8.0\Starter.deps.json
+G:\C#\ChallengeProject\Starter\bin\Debug\net8.0\Starter.runtimeconfig.json
+G:\C#\ChallengeProject\Starter\bin\Debug\net8.0\Starter.dll
+G:\C#\ChallengeProject\Starter\bin\Debug\net8.0\Starter.pdb
+G:\C#\ChallengeProject\Starter\obj\Debug\net8.0\Starter.GeneratedMSBuildEditorConfig.editorconfig
+G:\C#\ChallengeProject\Starter\obj\Debug\net8.0\Starter.AssemblyInfoInputs.cache
+G:\C#\ChallengeProject\Starter\obj\Debug\net8.0\Starter.AssemblyInfo.cs
+G:\C#\ChallengeProject\Starter\obj\Debug\net8.0\Starter.csproj.CoreCompileInputs.cache
+G:\C#\ChallengeProject\Starter\obj\Debug\net8.0\Starter.sourcelink.json
+G:\C#\ChallengeProject\Starter\obj\Debug\net8.0\Starter.dll
+G:\C#\ChallengeProject\Starter\obj\Debug\net8.0\refint\Starter.dll
+G:\C#\ChallengeProject\Starter\obj\Debug\net8.0\Starter.pdb
+G:\C#\ChallengeProject\Starter\obj\Debug\net8.0\Starter.genruntimeconfig.cache
+G:\C#\ChallengeProject\Starter\obj\Debug\net8.0\ref\Starter.dll
