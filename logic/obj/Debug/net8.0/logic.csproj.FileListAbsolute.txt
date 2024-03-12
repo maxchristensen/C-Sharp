@@ -1,0 +1,15 @@
+G:\C#\logic\bin\Debug\net8.0\logic.exe
+G:\C#\logic\bin\Debug\net8.0\logic.deps.json
+G:\C#\logic\bin\Debug\net8.0\logic.runtimeconfig.json
+G:\C#\logic\bin\Debug\net8.0\logic.dll
+G:\C#\logic\bin\Debug\net8.0\logic.pdb
+G:\C#\logic\obj\Debug\net8.0\logic.GeneratedMSBuildEditorConfig.editorconfig
+G:\C#\logic\obj\Debug\net8.0\logic.AssemblyInfoInputs.cache
+G:\C#\logic\obj\Debug\net8.0\logic.AssemblyInfo.cs
+G:\C#\logic\obj\Debug\net8.0\logic.csproj.CoreCompileInputs.cache
+G:\C#\logic\obj\Debug\net8.0\logic.sourcelink.json
+G:\C#\logic\obj\Debug\net8.0\logic.dll
+G:\C#\logic\obj\Debug\net8.0\refint\logic.dll
+G:\C#\logic\obj\Debug\net8.0\logic.pdb
+G:\C#\logic\obj\Debug\net8.0\logic.genruntimeconfig.cache
+G:\C#\logic\obj\Debug\net8.0\ref\logic.dll
