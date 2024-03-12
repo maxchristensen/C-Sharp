@@ -1,0 +1,15 @@
+G:\C#\coinflip\bin\Debug\net8.0\coinflip.exe
+G:\C#\coinflip\bin\Debug\net8.0\coinflip.deps.json
+G:\C#\coinflip\bin\Debug\net8.0\coinflip.runtimeconfig.json
+G:\C#\coinflip\bin\Debug\net8.0\coinflip.dll
+G:\C#\coinflip\bin\Debug\net8.0\coinflip.pdb
+G:\C#\coinflip\obj\Debug\net8.0\coinflip.GeneratedMSBuildEditorConfig.editorconfig
+G:\C#\coinflip\obj\Debug\net8.0\coinflip.AssemblyInfoInputs.cache
+G:\C#\coinflip\obj\Debug\net8.0\coinflip.AssemblyInfo.cs
+G:\C#\coinflip\obj\Debug\net8.0\coinflip.csproj.CoreCompileInputs.cache
+G:\C#\coinflip\obj\Debug\net8.0\coinflip.sourcelink.json
+G:\C#\coinflip\obj\Debug\net8.0\coinflip.dll
+G:\C#\coinflip\obj\Debug\net8.0\refint\coinflip.dll
+G:\C#\coinflip\obj\Debug\net8.0\coinflip.pdb
+G:\C#\coinflip\obj\Debug\net8.0\coinflip.genruntimeconfig.cache
+G:\C#\coinflip\obj\Debug\net8.0\ref\coinflip.dll
