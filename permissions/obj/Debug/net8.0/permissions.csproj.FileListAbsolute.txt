@@ -1,0 +1,15 @@
+G:\C#\permissions\bin\Debug\net8.0\permissions.exe
+G:\C#\permissions\bin\Debug\net8.0\permissions.deps.json
+G:\C#\permissions\bin\Debug\net8.0\permissions.runtimeconfig.json
+G:\C#\permissions\bin\Debug\net8.0\permissions.dll
+G:\C#\permissions\bin\Debug\net8.0\permissions.pdb
+G:\C#\permissions\obj\Debug\net8.0\permissions.GeneratedMSBuildEditorConfig.editorconfig
+G:\C#\permissions\obj\Debug\net8.0\permissions.AssemblyInfoInputs.cache
+G:\C#\permissions\obj\Debug\net8.0\permissions.AssemblyInfo.cs
+G:\C#\permissions\obj\Debug\net8.0\permissions.csproj.CoreCompileInputs.cache
+G:\C#\permissions\obj\Debug\net8.0\permissions.sourcelink.json
+G:\C#\permissions\obj\Debug\net8.0\permissions.dll
+G:\C#\permissions\obj\Debug\net8.0\refint\permissions.dll
+G:\C#\permissions\obj\Debug\net8.0\permissions.pdb
+G:\C#\permissions\obj\Debug\net8.0\permissions.genruntimeconfig.cache
+G:\C#\permissions\obj\Debug\net8.0\ref\permissions.dll
